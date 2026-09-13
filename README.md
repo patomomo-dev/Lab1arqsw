@@ -6,7 +6,7 @@ Aplicación web transaccional bancaria de dos capas que permite la consulta de c
 
 ## Estructura del Proyecto e Instrucciones Importantes
 
-> **Aviso de instalación:** Debido a restricciones de tamaño al subir el proyecto, la carpeta del cliente web no está disponible en formato descomprimido dentro del repositorio.
+> **Aviso de instalación:** Debido a restricciones de tamaño al subir el proyecto, la carpeta banco-frontend no está disponible en formato descomprimido dentro del repositorio.
 
 * **Backend:** Se encuentra ubicado en la carpeta **`lab1arq`**.
 * **Frontend:** Se subió a la raíz del repositorio como el archivo comprimido **`banco-frontend.zip`**.
